@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# {{site.title}}
-{{site.description}}
+# {{Datanautics}}
+{{I am Rafael Lopes, a physicist intrested on data, time-series analysis and epidemics.}}
