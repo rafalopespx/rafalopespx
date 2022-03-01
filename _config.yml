@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Rafael Lopes's Page
+description: A simple webpage for a simples physicist
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: /home
   - title: Setup
     url: setup
