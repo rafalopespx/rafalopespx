@@ -1,9 +1,5 @@
-# gh-pages-template
-A GitHub pages template based on [minimal Jekyll theme.](https://github.com/pages-themes/minimal)
-Couple of additional futures such as a navigation bar and a full page layout are added to the minimal theme.
+# Rafael Lopes
+I am a Physicist with interest in time-series analysis, mathematical epidemiology and impacts of climate change on epidemics.
 
-- [Preview the theme](https://kbsezginel.github.io/gh-pages-template/)
-- [See the original theme in action](https://pages-themes.github.io/minimal/)
+I am a Ph.D Candidate in Theoretical Physics at the Institute for Theoretical Physics - IFT (in Portuguese) of São Paulo State University, São Paulo, Brazil
 
-## Usage
-See [setup and customization instructions](https://kbsezginel.github.io/gh-pages-template/setup) to start using the theme.
