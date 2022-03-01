@@ -4,6 +4,6 @@ description: A simple webpage for a simples physicist
 show_downloads: True
 navigation:
   - title: Home
-    url: /home
+    url: /
   - title: Setup
     url: setup
