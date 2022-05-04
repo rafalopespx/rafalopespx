@@ -3,7 +3,7 @@ I am a Physicist with interest in time-series analysis, mathematical epidemiolog
 
 I am a Ph.D Candidate in Theoretical Physics at the Institute for Theoretical Physics - [IFT](https://www.ift.unesp.br/#!/en) (in Portuguese) of São Paulo State University, São Paulo, Brazil
 
-Since March 2020, together with my Ph.D. advisor and collaborators we founded a website and NGO, to bring to the public debate of Covid-19 pandemic in Brazil, scientifically updated analysis and news. Our site is [covid19br.github.io](https://covid19br.github.io) and our institutional is [profile](https://github.com/covid19br/) in github. We have profiles in all social medias, all are @obscovid19br. [Twitter](twitter.cm/obscovid19br), [Instagram](instagram.com/obscovid19br), [Facebook](facebook.com/obscovid19br).
+Since March 2020, together with my Ph.D. advisor and collaborators we founded a website and NGO, to bring to the public debate of Covid-19 pandemic in Brazil, scientifically updated analysis and news. Our site is [covid19br.github.io](https://covid19br.github.io) and our institutional profile [github.com/covid19br](https://github.com/covid19br/) in github. We have profiles in all social medias, all are @obscovid19br. [Twitter](twitter.cm/obscovid19br), [Instagram](instagram.com/obscovid19br), [Facebook](facebook.com/obscovid19br).
 
 I Like very much data visualization! There are some repositories that I've been working on projects for dataviz:
 
