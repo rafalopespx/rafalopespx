@@ -1,7 +1,7 @@
 # Rafael Lopes
 I am a Physicist with interest in time-series analysis, mathematical epidemiology, data science for epidemiology and impacts of climate change on epidemics. I'm very active on [Twitter](twitter.com/rafalpx)
 
-I am a Ph.D in Theoretical Physics at the Institute for Theoretical Physics - [IFT](https://www.ift.unesp.br/#!/en) (in Portuguese) of State University of São Paulo, São Paulo, Brazil. Now, I am postdoctoral researcher at [All for health Institute](https://www.itps.org.br/), a new founded institute to help and build capacity to Brazil on curbing and mitigating the effects of emerging and re-emereging infectious diseases.
+I am a Ph.D in Theoretical Physics at the Institute for Theoretical Physics - [IFT](https://www.ift.unesp.br/#!/en) (in Portuguese) of State University of São Paulo, São Paulo, Brazil. Now, I am postdoctoral researcher at [All for health Institute](https://www.itps.org.br/quem-somos/en), a new founded institute to help and build capacity to Brazil on curbing and mitigating the effects of emerging and re-emereging infectious diseases.
 
 My thesis title is "Dengue dynamics under climate drivers: Analysis with eoclogical and epidemiological frameworks", a analysis and data analysis of how temperature and precipitation has been affecting the dynamics of Dengue in Brazil on the last 10 years, 2010-2019. To know more, please, visit the website of the thesis [here](https://rafalopespx.github.io/phd_slides_defense).
 
