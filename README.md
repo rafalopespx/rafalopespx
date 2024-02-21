@@ -1,4 +1,4 @@
-# Rafael Lopes
+# Rafael (Rafa) Lopes
 I am a Physicist with an interest in time-series analysis, mathematical epidemiology, data science for epidemiology, and the impacts of climate change on epidemics. I'm very active on [Twitter](twitter.com/rafalpx)
 
 I am a Ph.D. in Theoretical Physics at the Institute for Theoretical Physics - [IFT](https://www.ift.unesp.br/#!/en) (in Portuguese) of the State University of São Paulo, São Paulo, Brazil. After defending my Ph.D. I was a postdoctoral researcher at [All for health Institute](https://www.itps.org.br/quem-somos/en), a newly founded institute to help and build capacity in Brazil on curbing and mitigating the effects of emerging and re-emerging infectious diseases. I am a postdoctoral associate researcher at [Grubaugh Lab](http://grubaughlab.com/), researching methods to nowcasting SARS-CoV-2 variants succession and its impact on infections.
